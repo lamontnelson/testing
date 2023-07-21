@@ -1,6 +1,7 @@
 
 
 def main(p1,p2=False):
+    other = False
     ary = [ 1, 2, 3,
 
             4,     6, 
